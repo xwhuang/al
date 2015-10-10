@@ -1,0 +1,21 @@
+* 搜索策略(Search Strategies)
+** 状态空间盲目搜索
+*** 深度优先搜索(Depth-First-Search)
+*** 广度优先搜索(Breadth-First-Search)
+** 状态空间启发式搜索
+*** A搜索算法(A Search Algorithm)
+*** A*寻路(A* Search Algorithm)
+*** D*寻路(Dymamic A* Search Algorithm)
+
+* 状态机机制(Finite-State Machine)
+* 决策树机制(Decision Tree)
+* 博弈论(Game Theroy)
+** 最大最小搜索算法(Max-min search algorithm)
+** 剪枝搜索算法(Alpha-beta search algorithm)
+* 神经网络（Artificial Neural Networks）
+** 深度学习(Deep Learning)
+** 置信网络(Belief Network)
+** 卷积神经网络(Convolutional Neural Network)
+* 退火算法（Simulate Anneal Arithmetic)
+* 遗传算法(Genetic Algorithm)
+* 群聚技术
